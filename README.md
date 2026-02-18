@@ -2,6 +2,14 @@
 
 A comprehensive full-stack MERN application for managing finance and warehousing operations with CRUD functionality, search capabilities, and PDF report generation.
 
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-brightgreen)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![Express](https://img.shields.io/badge/Framework-Express-lightgrey)
+
+---
+
 ## 📋 Table of Contents
 
 - [About the Project](#about-the-project)
